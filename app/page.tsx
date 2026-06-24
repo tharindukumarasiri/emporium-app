@@ -4,7 +4,7 @@ import { Copy } from "lucide-react";
 import { useState } from "react";
 
 const OTP_MAILBOX_URL =
-  "https://temp-mail.org/en/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1dWlkIjoiZTNhODE0YThiZmYyNDBmMmE2MmQ3NzNlNDMxOGJlOWYiLCJtYWlsYm94IjoieGViYXhleTcwOEBwcmVwYXJteS5jb20iLCJpYXQiOjE3ODIxMDQxMDl9.hbQQDcH3F1bgUtHrqG-eyfkY-68DUKgW4FaDcSF1zVo&utm_source=qrcode&utm_medium=website&utm_campaign=website";
+  "https://temp-mail.org/en/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1dWlkIjoiZTNhODE0YThiZmYyNDBmMmE2MmQ3NzNlNDMxOGJlOWYiLCJtYWlsYm94IjoiYmFzaXRpNjczOEBsdXh1ZGF0YS5jb20iLCJpYXQiOjE3ODIxMDQxMDl9.3xfRVcZYFv5ceh6CIM91rMXyVMPPpgPGd0qp49CM2II&utm_source=qrcode&utm_medium=website&utm_campaign=website";
 
 const CLAUDE_LOGIN = "https://claude.ai/login";
 
